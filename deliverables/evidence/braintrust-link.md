@@ -2,7 +2,7 @@
 
 - **Platform:** LangSmith (smith.langchain.com)
 - **Project Name:** `ai-evaluation`
-- **Direct Project URL:** https://smith.langchain.com/o/3129b950-83a2-46c0-8cb4-eb41983a5cd4/projects/p/5ddcbc7b-73e6-4903-9808-e5ca3062d03e
+- **Direct Project URL:** https://smith.langchain.com/public/f48459b2-a148-4dd5-91fe-a52cf08859de/r/0fcd108b-88bc-4b23-b94f-643850ddf82f?start_time=2026-08-21T03%3A19%3A12.949469Z
 - **Project ID:** `5ddcbc7b-73e6-4903-9808-e5ca3062d03e`
 - **Tenant ID (Organization):** `3129b950-83a2-46c0-8cb4-eb41983a5cd4`
 - **API Key Configuration:** Đã cấu hình biến `LANGSMITH_API_KEY` trong `.env`.
